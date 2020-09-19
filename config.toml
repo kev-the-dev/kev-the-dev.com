@@ -1,0 +1,14 @@
+baseurl = "https://kev-the-dev.com"
+languageCode = "en-us"
+title = "kev-the-dev"
+theme = "paper"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+url = "/posts"
+weight = 2
